@@ -10,7 +10,7 @@ I'm Shubha C Palachanda
 
 🎓 Master's in Data Science at University of Washington, Seattle - Class of 2023
 
-🎓 Bachlor's in Electrical and Computer Engineering at B.M.S College of Engineering - Class of 2017
+🎓 Bachelor's  in Electrical and Computer Engineering at B.M.S College of Engineering - Class of 2017
 
 ❤️ Interested in solving business problems using Machines Learning and Analytics
 
