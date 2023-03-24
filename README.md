@@ -19,6 +19,6 @@ I'm Shubha C Palachanda
 
 🤔 I'm seeking assistance to secure full-time employment in the data science and analytics fields.
 
-📫 How to reach me: shubhacp8196@gmail.com or (LinkedIn) <https://www.linkedin.com/in/shubha-changappa-palachanda/> inmail.
+📫 How to reach me: shubhacp8196@gmail.com or (LinkedIn)<https://www.linkedin.com/in/shubha-changappa-palachanda/> inmail.
 
 
