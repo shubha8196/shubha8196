@@ -3,6 +3,7 @@
 I'm Shubha C Palachanda
 
 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
 🖥 Data Scientist Intern at the City of Tacoma, EX - Fidelity Investment 
 
 👨‍💼 In the last 4+ years of employment, I've held multiple roles - Data Scientist & Machine Learning Engineer
