@@ -16,7 +16,7 @@ I'm Shubha C Palachanda
 
 🥇 AWS Certified Developer, Machine Learning Specialization
 
-⚡ Fun fact: Love enacting anime scenes
+⚡ Fun fact: Love enacting anime scenes.
 
 🤔 I'm seeking assistance to secure full-time employment in the data science and analytics fields.
 
